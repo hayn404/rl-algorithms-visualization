@@ -1,0 +1,13 @@
+streamlit
+gymnasium
+gymnasium[atari]
+gymnasium[accept-rom-license]
+ale-py
+shimmy[atari]
+numpy
+matplotlib
+plotly
+pandas
+Pillow
+torch
+modal
