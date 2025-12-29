@@ -10,4 +10,4 @@ plotly
 pandas
 Pillow
 torch
-modal
+pygame
